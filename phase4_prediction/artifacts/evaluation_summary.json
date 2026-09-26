@@ -1,0 +1,32 @@
+{
+  "mae": 3743.88,
+  "median_ae": 614.93,
+  "rmse": 20340.75,
+  "mape": 1790.48,
+  "tier_metrics": [
+    {
+      "Tier": "Faible",
+      "Nb_Produits": 478,
+      "MAE": 3042.25,
+      "Median_AE": 436.24,
+      "RMSE": 21971.57,
+      "MAPE": 3169.99
+    },
+    {
+      "Tier": "Haute",
+      "Nb_Produits": 58,
+      "MAE": 3489.42,
+      "Median_AE": 1402.71,
+      "RMSE": 7656.71,
+      "MAPE": 106.09
+    },
+    {
+      "Tier": "Moyenne",
+      "Nb_Produits": 97,
+      "MAE": 7353.53,
+      "Median_AE": 2080.74,
+      "RMSE": 16912.94,
+      "MAPE": 660.1
+    }
+  ]
+}

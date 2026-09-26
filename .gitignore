@@ -1,0 +1,25 @@
+# ── Real MédiS data — never publish ──────────────────────────────
+phase4_prediction/data/monthly_sales.csv
+phase4_prediction/data/features.csv
+phase4_prediction/artifacts/evaluation_report.csv
+
+# ── Secrets ───────────────────────────────────────────────────────
+**/.env
+**/.env.production
+**/.env.*.local
+
+# ── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# ── Node / frontend ───────────────────────────────────────────────
+node_modules/
+dist/
+
+# ── Docker / misc ─────────────────────────────────────────────────
+*.log
+.DS_Store
+.vscode/
